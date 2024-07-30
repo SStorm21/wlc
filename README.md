@@ -18,4 +18,7 @@
         <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="60" height="60"/> 
             <img src="https://www.svgrepo.com/show/375549/batch.svg" alt="batch" width="60" height="60"/> 
               <img src="https://www.svgrepo.com/show/342347/visual-studio-code.svg" alt="vscode" width="60" height="60"/> 
+                <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" alt="bash" width="30" height="30"/> 
+
+
 </p>
